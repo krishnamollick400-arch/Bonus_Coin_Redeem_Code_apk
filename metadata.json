@@ -1,0 +1,6 @@
+{
+  "name": "Bonus Coin Redeem Code",
+  "description": "A modern Android rewards gaming app with custom orange coin mechanics, spinning wheel, scratch cards, play games, tasks, daily rewards, and secure login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
